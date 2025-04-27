@@ -121,7 +121,7 @@ The project is implemented in Python, utilizing several key libraries:
 | Kodati Shruthi               | skoda13@uic.edu | [Shruthikodati](https://github.com/Shruthikodati) |
 | Siddhi Dabholkar             | sdabh@uic.edu  | [siddhidabholkar10](https://github.com/siddhidabholkar10) |
 | Meena Anand                  | ameen4@uic.edu | [Anandm0101](https://github.com/Anandm0101) |
-| Naga Malleshwar Reddy Lingala | nling4@uic.edu | [malleshwar](https://github.com/malleshwar) |
+| Naga Malleshwar Reddy Lingala | nling4@uic.edu | [malleshwar](https://github.com/sedulous-born) |
 
 ## 🤝 Contributions
 
